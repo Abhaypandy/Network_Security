@@ -1,0 +1,4 @@
+python-dotenv
+# it is used to call enviroment variables
+pandas
+numpy
