@@ -1,2 +1,4 @@
 network
 .env
+__pycache__/
+*.pyc
